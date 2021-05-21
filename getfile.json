@@ -1,0 +1,27 @@
+{
+
+"result": true,
+
+"plugins_": {
+
+"AddedMe.lua":"[ملف امر منو ضافني](https://t.me/Vc33h)",
+
+"TagAdmins.lua":"[ملف تاك منفصل للمشرفين](https://t.me/Vc33h)",
+
+"ReplyBot.lua":"[ملف الردود الخاص بالسورس](https://t.me/Vc33h)",
+
+"MuteNames.lua":"[ملف كتم الاسماء للمجموعات](https://t.me/Vc33h)",
+
+"ProNames.lua":"[ملف وضع التوحيد للمجموعات](https://t.me/Vc33h)",
+
+"ChangeName.lua":"[ملف التنبيه لتغيير الاسم](https://t.me/Vc33h)",
+
+"ChangeUser.lua":"[ملف التنبيه لتغيير المعرف](https://t.me/Vc33h)",
+
+"ChangePhoto.lua":"[ملف التنبيه لتغيير الصوره](https://t.me/Vc33h)",
+
+"AutoFile.lua":"[ملف النسخ الاحتياطيه التلقائيه](https://t.me/Vc33h)",
+
+}
+
+}
